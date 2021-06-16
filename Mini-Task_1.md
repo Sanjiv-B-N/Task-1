@@ -47,7 +47,9 @@ So in this project we have assumed a 4 way crossing where traffic signals are re
 
 Source: https://www.electronicshub.org/density-based-traffic-signal-system-using-microcontroller/
 
-# Project 9: 
+# Project 9: Automatic Washroom light switch
+
+This project uses the 
 
 
 
