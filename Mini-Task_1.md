@@ -51,5 +51,22 @@ Source: https://www.electronicshub.org/density-based-traffic-signal-system-using
 
 This project uses the 
 
+Source: https://www.electronicshub.org/automatic-washroom-light-switch/
+
+# Project 10: Unbiased Electronic Dice LEDs
+
+
+Source: https://www.electronicshub.org/unbiased-electronic-dice-with-leds/
+
+# Project 11: Arduino Car Speed Detector
+
+
+
+Source: https://www.electronicshub.org/arduino-car-speed-detector/
+
+# Project 12: Electronic Letter Box
+
+
+Source: https://www.electronicshub.org/electronic-letter-box-project-circuit/
 
 
