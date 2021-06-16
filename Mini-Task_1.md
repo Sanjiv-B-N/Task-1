@@ -23,5 +23,31 @@ This project is used to mark the attendance of students and teachers with their 
 
 Source: https://www.electroniclinic.com/biometric-student-attendance-system-with-database-using-vb-net-arduino/
 
-# Project 5: 
+# Project 5: Water level controller using 8051 microcontroller
+
+This project is an extension on the water level monitor. Here this is based on the principle that water conducts electricity. So it has 3 wires to check the water levels and the wires immersed in the water will conduct. After determining the water level the motor turns on if it is low and turns off once reaches to the high point. For this we use an 8051 based microcontroller(AT89C51), transistors and servo motors for demonstrating the motor for the water pump. Here we use the Keil uvision IDE for programming.
+
+Source: https://www.electronicshub.org/water-level-controller-using-8051-microcontroller/
+
+# Project 6: Homemade Pulse Oximetry Display
+
+Another project w.r.t the pandemic thats going on currently. This is an Arduino UNO based project using an integrated pulse oximeter and heart rate sensor(MAX30102) and an I2C 16x2 LCD display. So here this device can be made at home to measure your oxygen saturation levels as the display contains your pulse O2 saturation.
+
+Source: https://www.hackster.io/furqanahsan/the-h-p-o-d-homemade-pulse-oximetry-display-4b39ce
+
+# Project 7: Realtime Earthquake detection system
+
+This very interesting project involves Machine learning using SensiML and Quickfeather to process the data and deploy it. So this takes in seismic data from the past and prepares a deployable ML model to be used for future detection. For this we use the QuickFeather Dev kit with Sensi ML and a ESP32 with WIFI and bluetooh with a Quickfeather module. We use the Thinger.io as the cloud to connect to our mobile app to recieve data as to if theres an earthquake detected at the sensor or not.
+
+Source: https://www.hackster.io/salahuddin/realtime-earthquake-detection-system-fe4cd3
+
+# Project 8: Density based Traffic Signal System
+
+So in this project we have assumed a 4 way crossing where traffic signals are required. To automate this we use IR sensors to represent obstacles(traffic). This is based on the ATmega8 controller. So here if there is no traffic then there is a present time delay which all signals will follow. When traffic is detected the that particular signal will turn green while the others turn red and once the traffic is cleared this will revert back to the time delay loop. For the sake of simulation 4 sets of colored leds(or 4 multi color leds) for the traffic signals. This could be made better by using better sensors to monitor the traffic density as there might be cars on all roads. We need to strengthen our algorithms to account for all possible basic test cases, like multiple roads having traffic at the same time or how long one particular lane has been waiting.
+
+Source: https://www.electronicshub.org/density-based-traffic-signal-system-using-microcontroller/
+
+# Project 9: 
+
+
 
