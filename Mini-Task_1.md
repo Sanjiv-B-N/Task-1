@@ -49,24 +49,31 @@ Source: https://www.electronicshub.org/density-based-traffic-signal-system-using
 
 # Project 9: Automatic Washroom light switch
 
-This project uses the 
+This project uses the Reed switch with magnet to identify the state of the door and uses a LM741 Op-Amp IC and a CD4017 Decade counter to control the lights. This set up will turn on the lights if you open the door and close it once. And it'll reset everything back to off when you opwn and close the door again while leaving the room. This could be made better by using a IR sensor and reciever pair to be more sensitive to the door movements. This prevents accidental power wastage if people forget to turn off the lights while leaving the room.
 
 Source: https://www.electronicshub.org/automatic-washroom-light-switch/
 
 # Project 10: Unbiased Electronic Dice LEDs
 
+This is based on the principle that the time interval between is very fast and imperceptible to the human eye. Here we use 6 LEDs to denote the 6 numbers on a die and 4017 Decade counter to count to through the numbers. Here the 7th instance is connected to reset to begin the counting from 1 again. Here we use the NE555 in astable mode and use it to generate square pulses which act as the clock for the counter. The push button is connected to the NE555 to stop generating pulses when it is not pressed. This creates a nearly unbiased electronic dice as normal ones maybe biased due to deformations caused by physical impact.
 
 Source: https://www.electronicshub.org/unbiased-electronic-dice-with-leds/
 
 # Project 11: Arduino Car Speed Detector
 
-
+The present speed require manual interaction to point at a vehicle to read its speed. But this project uses 2 IR sensors with recievers placed say 10m to figure out the speed of an obstacle. The IR sensor with a reciever, recieves a signal when it encounters an obstacle it records the time. When the 2nd reciever encouters the object it records the time and calculates the speed using the time difference. An aruduino Uno is used for this project. There  is a lot of scope for this project and it can be improved by accounting for multiple vehicles passing a sensor before it reaches the other one. And we can make use of another IR distance sensor to measure the distance between the IR sensor and alter the code accordingly so that the the sensors need noe be placed exactly at 10m apart.
 
 Source: https://www.electronicshub.org/arduino-car-speed-detector/
 
 # Project 12: Electronic Letter Box
 
+This project is based on the LED and the LDR and that a letter is opaque and will block the light coming from the LED to the LDR. To identify this we use 741 Op-Amp and CD4001 (Quad NOR Gate IC) and an LED is used to indicate the presence of a letter. So the light will indicate whether the box is empty or has at least one letter.
 
 Source: https://www.electronicshub.org/electronic-letter-box-project-circuit/
+
+# Project 13: A random number generator using an 8051 microcontroller
+
+
+Source: https://www.electronicshub.org/random-number-generator-using-8051/
 
 
