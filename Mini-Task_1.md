@@ -71,9 +71,21 @@ This project is based on the LED and the LDR and that a letter is opaque and wil
 
 Source: https://www.electronicshub.org/electronic-letter-box-project-circuit/
 
-# Project 13: A random number generator using an 8051 microcontroller
+# Project 13: Smart Irrigation System
 
+This system tracks the moisture level of the soil and activates the pump accordingly to maintain moisture level in the given range. Here we can measure the moisture using a capacitive soil moisture sensor and turn on the pump using the Wesmos D1 Mini board. We can also use a telegram bot for controlling the pump and getting the readings from the sensor. Here we also use a SD module to store the moisture data to use it in the future.
 
-Source: https://www.electronicshub.org/random-number-generator-using-8051/
+Source: https://www.hackster.io/407032/smart-irrigation-capacitive-soil-moisture-sensor-vallauri-2bbf98
 
+# Project 14: Interfacing GPS with a 8051 micro controller
+
+The Global Positioning System(GPS) is a set of 24-32 satellittes that continuosly provide data to recievers across the globe. Here we use a GPS module to recieve the raw data and decipher the Latitude and Longitude to display them on them on a LCD display. Here we use an 8051 Micro cotroller and a Max232 IC for level conversion. The GPS module transmits the data using the RS232 protocol as per NMEA standards. And we need to extract the Latitude and Longitude from the recieved messages.
+
+Source: https://www.electronicshub.org/interfacing-gps-8051-microcontroller/
+
+# Project 15: Battery level indicator
+
+This project is based on the LM3914 IC. This IC takes input analog voltage and drives 10 LED’s linearly according to the input analog voltage. So here we can alter the volage range we measure by using resitors and callibrating them to suit the battery. This same principle can be used for measuring the lead acid batteries in your car at home to measure its health. But you may need to switch the components as the voltage range for this test project is very low.
+
+Source: https://www.electronicshub.org/battery-level-indicator/
 
