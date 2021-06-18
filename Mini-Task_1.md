@@ -12,6 +12,9 @@ Source:https://www.hackster.io/utkarsh5679077/touchless-soap-sanitizer-dispenser
 
 This project sends a SMS to your mobile phone if the temperature of the device or room you're monitoring crosses a set threshold. As expected this has a wide ranging applications in mmany fields and industries as temperature is a key factor for anything. Here this is achieved by using the Bolt IoT Bolt WiFi module to read the data and relay it to the Twilio Messaging. The sensor used is LM35(Temperature sensor). We can add more output devices like buzzers and LEDs to show the current state apart from the SMS alerts. This can be improved using a better temperature sensor and has a lot of scope in industries as by adding in more sensors we can remotely monitor the parameters of equipment.
 
+![image](https://user-images.githubusercontent.com/84587485/122561870-fcff6a80-d05f-11eb-8902-b555f61a9a67.png)
+
+
 Source:https://www.hackster.io/srinjit35/iot-based-thermal-alarm-fa729d
 
 # Project 3: Controlling 2 motors using a JoyStick
@@ -32,6 +35,8 @@ Source: https://www.electroniclinic.com/biometric-student-attendance-system-with
 # Project 5: Water level controller using 8051 microcontroller
 
 This project is an extension on the water level monitor. Here this is based on the principle that water conducts electricity. So it has 3 wires to check the water levels and the wires immersed in the water will conduct. After determining the water level the motor turns on if it is low and turns off once reaches to the high point. For this we use an 8051 based microcontroller(AT89C51), transistors and servo motors for demonstrating the motor for the water pump. Here we use the Keil uvision IDE for programming.
+
+![](https://media.giphy.com/media/3o6MbrBnzHFQpNDzlC/giphy.gif)
 
 Source: https://www.electronicshub.org/water-level-controller-using-8051-microcontroller/
 
