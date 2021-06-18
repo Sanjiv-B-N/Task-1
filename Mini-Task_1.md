@@ -62,6 +62,8 @@ Source: https://www.electronicshub.org/density-based-traffic-signal-system-using
 
 This project uses the Reed switch with magnet to identify the state of the door and uses a LM741 Op-Amp IC and a CD4017 Decade counter to control the lights. This set up will turn on the lights if you open the door and close it once. And it'll reset everything back to off when you opwn and close the door again while leaving the room. This could be made better by using a IR sensor and reciever pair to be more sensitive to the door movements. This prevents accidental power wastage if people forget to turn off the lights while leaving the room.
 
+![](https://media.giphy.com/media/3o7TKO91XVqB383RN6/giphy.gif)
+
 Source: https://www.electronicshub.org/automatic-washroom-light-switch/
 
 # Project 10: Unbiased Electronic Dice LEDs
@@ -82,11 +84,17 @@ Source: https://www.electronicshub.org/arduino-car-speed-detector/
 
 This project is based on the LED and the LDR and that a letter is opaque and will block the light coming from the LED to the LDR. To identify this we use 741 Op-Amp and CD4001 (Quad NOR Gate IC) and an LED is used to indicate the presence of a letter. So the light will indicate whether the box is empty or has at least one letter.
 
+![image](https://user-images.githubusercontent.com/84587485/122561382-6a5ecb80-d05f-11eb-89b4-996a1774fcdb.png)
+
+
 Source: https://www.electronicshub.org/electronic-letter-box-project-circuit/
 
 # Project 13: Smart Irrigation System
 
 This system tracks the moisture level of the soil and activates the pump accordingly to maintain moisture level in the given range. Here we can measure the moisture using a capacitive soil moisture sensor and turn on the pump using the Wesmos D1 Mini board. We can also use a telegram bot for controlling the pump and getting the readings from the sensor. Here we also use a SD module to store the moisture data to use it in the future.
+
+![image](https://user-images.githubusercontent.com/84587485/122561449-7fd3f580-d05f-11eb-89b5-4a7edb47d72d.png)
+
 
 Source: https://www.hackster.io/407032/smart-irrigation-capacitive-soil-moisture-sensor-vallauri-2bbf98
 
