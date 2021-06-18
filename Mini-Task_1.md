@@ -3,6 +3,9 @@
 
 This project is very relevant right now. This can be an alternative to the foot based mechanical ones deployed currently. The basic concept is it has a proximity sensor(could be IR or ultrasonic as well) which is the input device. Once it reads that a hand is in close proximity to the nozzle it signals the servo motors to proceed with the rotation to pump out sanitizer. This is all done with an Arduino UNO. Use two servo motors for a balance motion.
 
+![image](https://user-images.githubusercontent.com/84587485/122558112-4ef1c180-d05b-11eb-86cb-f91bfb64cc2f.png)
+
+
 Source:https://www.hackster.io/utkarsh5679077/touchless-soap-sanitizer-dispenser-7261ae
 
 # Project 2: IoT based Thermal Alarm
