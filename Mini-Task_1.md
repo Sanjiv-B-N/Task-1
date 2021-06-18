@@ -86,7 +86,7 @@ Source: https://www.hackster.io/407032/smart-irrigation-capacitive-soil-moisture
 
 The Global Positioning System(GPS) is a set of 24-32 satellittes that continuosly provide data to recievers across the globe. Here we use a GPS module to recieve the raw data and decipher the Latitude and Longitude to display them on them on a LCD display. Here we use an 8051 Micro cotroller and a Max232 IC for level conversion. The GPS module transmits the data using the RS232 protocol as per NMEA standards. And we need to extract the Latitude and Longitude from the recieved messages.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/co6DjYwuhG17ITs6VB/giphy.gif)
 
 Source: https://www.electronicshub.org/interfacing-gps-8051-microcontroller/
 
