@@ -74,7 +74,7 @@ Source: https://www.electronicshub.org/unbiased-electronic-dice-with-leds/
 
 The present speed require manual interaction to point at a vehicle to read its speed. But this project uses 2 IR sensors with recievers placed say 10m to figure out the speed of an obstacle. The IR sensor with a reciever, recieves a signal when it encounters an obstacle it records the time. When the 2nd reciever encouters the object it records the time and calculates the speed using the time difference. An aruduino Uno is used for this project. There  is a lot of scope for this project and it can be improved by accounting for multiple vehicles passing a sensor before it reaches the other one. And we can make use of another IR distance sensor to measure the distance between the IR sensor and alter the code accordingly so that the the sensors need noe be placed exactly at 10m apart.
 
-![](https://media.giphy.com/media/KKBpCeK0ASoPS/giphy.gif)
+![](https://media.giphy.com/media/zCzrh9mEOULVm/giphy.gif)
 
 Source: https://www.electronicshub.org/arduino-car-speed-detector/
 
