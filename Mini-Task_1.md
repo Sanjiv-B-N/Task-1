@@ -94,5 +94,6 @@ Source: https://www.electronicshub.org/interfacing-gps-8051-microcontroller/
 
 This project is based on the LM3914 IC. This IC takes input analog voltage and drives 10 LED’s linearly according to the input analog voltage. So here we can alter the volage range we measure by using resitors and callibrating them to suit the battery. This same principle can be used for measuring the lead acid batteries in your car at home to measure its health. But you may need to switch the components as the voltage range for this test project is very low.
 
+
 Source: https://www.electronicshub.org/battery-level-indicator/
 
