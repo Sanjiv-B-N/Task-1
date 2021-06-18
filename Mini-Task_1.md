@@ -42,7 +42,7 @@ Source: https://www.hackster.io/furqanahsan/the-h-p-o-d-homemade-pulse-oximetry-
 
 This very interesting project involves Machine learning using SensiML and Quickfeather to process the data and deploy it. So this takes in seismic data from the past and prepares a deployable ML model to be used for future detection. For this we use the QuickFeather Dev kit with Sensi ML and a ESP32 with WIFI and bluetooh with a Quickfeather module. We use the Thinger.io as the cloud to connect to our mobile app to recieve data as to if theres an earthquake detected at the sensor or not.
 
-![](https://media.giphy.com/media/mbG6891BV7QMo/giphy.gif)
+![](https://media.giphy.com/media/2cca3c7hwNx1C/giphy.gif)
 
 Source: https://www.hackster.io/salahuddin/realtime-earthquake-detection-system-fe4cd3
 
