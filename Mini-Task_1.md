@@ -16,13 +16,16 @@ Source:https://www.hackster.io/srinjit35/iot-based-thermal-alarm-fa729d
 
 # Project 3: Controlling 2 motors using a JoyStick
 
-This project uses a Joystick, few pushbuttons and 2 servo motors. The basic working is that when the joystick is moved the respective push buttons are pressed leading to them activating the servo motors. This requires minimal material to do and the motors can be connected to different things to alter their orientation in 2 dimensions
+This project uses a Joystick, few pushbuttons and 2 servo motors. The basic working is that when the joystick is moved the respective push buttons are pressed leading to them activating the servo motors. This requires minimal material to do and the motors can be connected to different things to alter their orientation in 2 dimensions.
 
 Source: https://www.instructables.com/2-motor-control-joystick/
 
 # Project 4: Biometric Student Attendance
 
 This project is used to mark the attendance of students and teachers with their fingerprints. So for this we use a fingerprint sensor module, an Arduino UNO and create GUI apps using visual basic 2010 express edition. We use a 433 MHz wireless module for transmission Since this is outdated we can use the latest version as well to create the app. This is the basic set up of the project where it shows a tick mark for people who logged in after registering their fingerprint. We can also use the Xampp server to maintain and record all this data in a MySQL database for future reference. This has multiple applications as well as we can store other forms of biometric data as and use this same basic concept as a security device. We could also recored the temperatures of people when they check in especially in the post covid world.
+
+![image](https://user-images.githubusercontent.com/84587485/122560510-4ea6f580-d05e-11eb-88c3-edbaa02654a9.png)
+
 
 Source: https://www.electroniclinic.com/biometric-student-attendance-system-with-database-using-vb-net-arduino/
 
@@ -49,6 +52,9 @@ Source: https://www.hackster.io/salahuddin/realtime-earthquake-detection-system-
 # Project 8: Density based Traffic Signal System
 
 So in this project we have assumed a 4 way crossing where traffic signals are required. To automate this we use IR sensors to represent obstacles(traffic). This is based on the ATmega8 controller. So here if there is no traffic then there is a present time delay which all signals will follow. When traffic is detected the that particular signal will turn green while the others turn red and once the traffic is cleared this will revert back to the time delay loop. For the sake of simulation 4 sets of colored leds(or 4 multi color leds) for the traffic signals. This could be made better by using better sensors to monitor the traffic density as there might be cars on all roads. We need to strengthen our algorithms to account for all possible basic test cases, like multiple roads having traffic at the same time or how long one particular lane has been waiting.
+
+![image](https://user-images.githubusercontent.com/84587485/122560816-b52c1380-d05e-11eb-8ac9-98a2490ad5d1.png)
+
 
 Source: https://www.electronicshub.org/density-based-traffic-signal-system-using-microcontroller/
 
