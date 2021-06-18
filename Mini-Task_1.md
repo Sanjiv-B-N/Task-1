@@ -42,6 +42,8 @@ Source: https://www.hackster.io/furqanahsan/the-h-p-o-d-homemade-pulse-oximetry-
 
 This very interesting project involves Machine learning using SensiML and Quickfeather to process the data and deploy it. So this takes in seismic data from the past and prepares a deployable ML model to be used for future detection. For this we use the QuickFeather Dev kit with Sensi ML and a ESP32 with WIFI and bluetooh with a Quickfeather module. We use the Thinger.io as the cloud to connect to our mobile app to recieve data as to if theres an earthquake detected at the sensor or not.
 
+![](https://media.giphy.com/media/mbG6891BV7QMo/giphy.gif)
+
 Source: https://www.hackster.io/salahuddin/realtime-earthquake-detection-system-fe4cd3
 
 # Project 8: Density based Traffic Signal System
@@ -83,6 +85,8 @@ Source: https://www.hackster.io/407032/smart-irrigation-capacitive-soil-moisture
 # Project 14: Interfacing GPS with a 8051 micro controller
 
 The Global Positioning System(GPS) is a set of 24-32 satellittes that continuosly provide data to recievers across the globe. Here we use a GPS module to recieve the raw data and decipher the Latitude and Longitude to display them on them on a LCD display. Here we use an 8051 Micro cotroller and a Max232 IC for level conversion. The GPS module transmits the data using the RS232 protocol as per NMEA standards. And we need to extract the Latitude and Longitude from the recieved messages.
+
+![](https://media.giphy.com/media/nrKQNbEXKBdIQ1fdiB/giphy.gif)
 
 Source: https://www.electronicshub.org/interfacing-gps-8051-microcontroller/
 
